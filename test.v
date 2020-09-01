@@ -6,4 +6,6 @@ output [4:0] c;
 
 c=a+b;
 	
+
+printf(%s);
 endmodule
